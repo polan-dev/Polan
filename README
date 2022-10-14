@@ -1,0 +1,16 @@
+Polan
+----------------
+polan is a open-source voice assistant made to be the 
+most privacy respecting assistant out of all
+
+license
+----------------
+polan is protected by GNU General Public License v3.0
+
+
+what's used in here? 
+----------------
+we used quasar as main framework
+vue.js is mostly used here
+
+
